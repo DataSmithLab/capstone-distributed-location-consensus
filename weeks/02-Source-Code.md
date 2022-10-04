@@ -5,7 +5,7 @@ permalink: /weeks/02-Data/
 doodle: /doodle.png
 ---
 
-# Source code: Run the program and read the source code
+# Code: Deploy the end-to-end demo
 
 ## Topics
 

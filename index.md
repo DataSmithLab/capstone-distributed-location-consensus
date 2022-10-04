@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Understanding Code Through Graphs"
+title: "Decentralized Location Consensus"
 doodle: "/doodle.png"
 permalink: /
 ---
@@ -60,8 +60,9 @@ end of the quarter.
 |Week|Topic|
 |--|--|
 |1|[Introduction to Decentralized Location Consensus and DP3T]({{ "weeks/01-Introduction" | absolute_url }})|
-|2|[Data: Code Parsing, Malware]({{ "/weeks/02-Data" | absolute_url }})|
+|2|[Code: Deploy the end-to-end demo]({{ "/weeks/02-Source-Code" | absolute_url }})|
 |3| Bluetooth low energy signal calibration |
+|10|Present Proposals|
 
 <!-- |3|[Creating Graphs from Code; What is Malware?]({{ "/weeks/03-Android-Graphs" | absolute_url }})| -->
 <!-- |4|[Graph Invariants as Measurements]({{ "/weeks/04-Graph-Features" | absolute_url }})| -->
@@ -70,13 +71,12 @@ end of the quarter.
 <!-- |7|[Graph Embedding I: node2vec]({{ "/weeks/07-Graph-Embeddings-I" | absolute_url }})| -->
 <!-- |8|[Graph Embedding II: metapath2vec]({{ "/weeks/08-Graph-Embeddings-II" | absolute_url }})| -->
 <!-- |9|[Production and Adversarial ML]({{ "/weeks/09-Adversarial-ML" | absolute_url }})| -->
-|10|Present Proposals|
 
 ---
 
-# Office Hours
+# Discussion hours
 
-Fridays 9-11AM
+Monday 4-5PM, SDSC 
 
 
 
