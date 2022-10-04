@@ -5,9 +5,9 @@ doodle: "/doodle.png"
 permalink: /
 ---
 
-Data science capstone domain of inquiry (DSC 180AB A04)
+Data science capstone domain of inquiry (DSC 180A B16)
 
-Developed by Aaron Fraenkel, Shivam Lakhotia.
+Developed by Haojian Jin.
 
 ---
 * TOC
@@ -17,51 +17,21 @@ Developed by Aaron Fraenkel, Shivam Lakhotia.
 
 # Introduction
 
-This domain of inquiry studies the problem of understanding computer
-code through machine learning on graphs. To approach this problem, we
-will initially focus on the problem of *malware detection* in Android
-applications.
+Many features in mobile apps rely on authentic smartphone location data. For example, Pokemon Go uses location to track players’ movement; dating apps use location to match people. However, it is surprisingly easy to spoof the location by hacking the OS, Radio, and mobile Apps. In this project, we will explore and design new mechanisms to create a decentralized location consensus, where participants can prove to the world that their phones have been to a specific location. 
 
-In this domain, project proposals will be restricted to the following
-areas:
-* Computer Code Understanding (using a variety of techniques)
-* Data Driven Approaches to Malware and Cyber-Security
 
-This domain centers around understanding computer code as *data*. You
-will spend a significant amount of work writing parsing logic for this
-code that measures the behaviors of interest (i.e. data processing).
+This domain of inquiry seeks to design computing systems that can generate privacy-sensitive location proofs.
+To approach this problem, we will initially focus on studying a secure, decentralized, privacy-preserving proximity tracing system, named [DP3T (Decentralized Privacy-Preserving Proximity Tracing)](https://github.com/DP-3T/documents). We will then retrofit this tool into a system that can generate privacy-sensitive location proofs in the future. 
+
+
 
 ## Result replication (introduction to topic)
 
-The bulk of the first half of the project will focus the task of
-"computer code understanding" on the specific problem of detection
-whether given source code is Malware or a benign application. The bulk
-of the result replication will focus on static code analysis using
-machine learning on graphs, as developed in the following papers:
-* [Hindroid](https://www.cse.ust.hk/~yqsong/papers/2017-KDD-HINDROID.pdf)
-* [MaMaDroid](https://arxiv.org/pdf/1612.04433.pdf)
+We will first setup the DP3T and study how they implement the programs:
+* [Android demo](https://github.com/DP-3T/dp3t-app-android-demo)
+* [dp3t-sdk-android](https://github.com/DP-3T/dp3t-sdk-android)
+* [dp3t-sdk-backend](https://github.com/DP-3T/dp3t-sdk-backend)
 
-The latter-half of Quarter 1 will introduce you to further topics,
-like graph embedding techniques and adversarial ML, to inform possible
-avenues for further research.
-
-## An initial note on ethics
-
-The ability to identify and combat Malware requires understanding how
-Malware works. Such knowledge is divorced from how it gets used by the
-practitioner; you, as the practitioner must be aware of ethical
-concerns with the usage of this knowledge and behave accordingly. In
-particular, while working with the material in this course, you must
-never engage in illegal activity related to your coursework and you
-must adhere to the code of academic integrity, as laid out in th
-syllabus.
-
-The topic of ethics will be regularly approached in this domain. For
-more reading on the ethics of teaching Malware, see this opinion
-pience [On the Growing Harm of Not Teaching
-Malware](http://www.csl.sri.com/users/neumann/cacm223.pdf) and a
-related study on [the ethics of teaching
-malware](https://www.ieee-security.org/TC/SPW2014/papers/5103a001.PDF).
 
 ---
 
@@ -89,15 +59,17 @@ end of the quarter.
 
 |Week|Topic|
 |--|--|
-|1|[Introduction to Code-Understanding and Malware]({{ "weeks/01-Introduction" | absolute_url }})|
+|1|[Introduction to Decentralized Location Consensus and DP3T]({{ "weeks/01-Introduction" | absolute_url }})|
 |2|[Data: Code Parsing, Malware]({{ "/weeks/02-Data" | absolute_url }})|
-|3|[Creating Graphs from Code; What is Malware?]({{ "/weeks/03-Android-Graphs" | absolute_url }})|
-|4|[Graph Invariants as Measurements]({{ "/weeks/04-Graph-Features" | absolute_url }})|
-|5|[Building a Baseline Model]({{ "/weeks/05-Baseline-Model" | absolute_url }})|
-|6|[Evalulating the HinDroid Result]({{ "/weeks/06-Hindroid" | absolute_url }})|
-|7|[Graph Embedding I: node2vec]({{ "/weeks/07-Graph-Embeddings-I" | absolute_url }})|
-|8|[Graph Embedding II: metapath2vec]({{ "/weeks/08-Graph-Embeddings-II" | absolute_url }})|
-|9|[Production and Adversarial ML]({{ "/weeks/09-Adversarial-ML" | absolute_url }})|
+|3| Bluetooth low energy signal calibration |
+
+<!-- |3|[Creating Graphs from Code; What is Malware?]({{ "/weeks/03-Android-Graphs" | absolute_url }})| -->
+<!-- |4|[Graph Invariants as Measurements]({{ "/weeks/04-Graph-Features" | absolute_url }})| -->
+<!-- |5|[Building a Baseline Model]({{ "/weeks/05-Baseline-Model" | absolute_url }})| -->
+<!-- |6|[Evalulating the HinDroid Result]({{ "/weeks/06-Hindroid" | absolute_url }})| -->
+<!-- |7|[Graph Embedding I: node2vec]({{ "/weeks/07-Graph-Embeddings-I" | absolute_url }})| -->
+<!-- |8|[Graph Embedding II: metapath2vec]({{ "/weeks/08-Graph-Embeddings-II" | absolute_url }})| -->
+<!-- |9|[Production and Adversarial ML]({{ "/weeks/09-Adversarial-ML" | absolute_url }})| -->
 |10|Present Proposals|
 
 ---
