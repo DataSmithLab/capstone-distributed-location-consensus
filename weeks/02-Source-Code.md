@@ -14,7 +14,7 @@ This week's assignments will guide you through the following topics:
 * Reading the source code of the demo and the backend server. 
 
 
-## Discussion slides
+## Discussion slides today
 
 [2022-10-03-DP3T Overview](resouces/2022-10-03-DP-3T.pdf)
 
