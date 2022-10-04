@@ -16,7 +16,7 @@ This week's assignments will guide you through the following topics:
 
 ## Discussion slides today
 
-[2022-10-03-DP3T Overview](resouces/2022-10-03-DP-3T.pdf)
+[2022-10-03-DP3T Overview]({{ "/resouces/2022-10-03-DP-3T.pdf" | absolute_url }})
 
 ## Tasks
 

@@ -3,4 +3,4 @@ title: "Capstone Domain: Malware"
 source: .
 destination: _site
 url: "https://datasmithlab.github.io"
-baseurl: "/capstone-malware-domain"
+baseurl: "/capstone-distributed-location-consensus"
