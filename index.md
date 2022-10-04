@@ -60,7 +60,7 @@ end of the quarter.
 |Week|Topic|
 |--|--|
 |1|[Introduction to Decentralized Location Consensus and DP3T]({{ "weeks/01-Introduction" | absolute_url }})|
-|2|[Code: Deploy the End-to-end Demo]({{ "/weeks/02-Source-Code" | absolute_url }})|
+|2|[Code: Deploy the End-to-end Demo]({{ "/weeks/02-Code" | absolute_url }})|
 |3| Bluetooth Low Energy Signal Calibration |
 |10|Present Proposals|
 
@@ -74,7 +74,7 @@ end of the quarter.
 
 ---
 
-# Discussion hours
+# Discussion Hours
 
 Monday 4-5PM, SDSC 
 
