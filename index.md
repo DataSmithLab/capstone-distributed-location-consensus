@@ -60,8 +60,8 @@ end of the quarter.
 |Week|Topic|
 |--|--|
 |1|[Introduction to Decentralized Location Consensus and DP3T]({{ "weeks/01-Introduction" | absolute_url }})|
-|2|[Code: Deploy the end-to-end demo]({{ "/weeks/02-Source-Code" | absolute_url }})|
-|3| Bluetooth low energy signal calibration |
+|2|[Code: Deploy the End-to-end Demo]({{ "/weeks/02-Source-Code" | absolute_url }})|
+|3| Bluetooth Low Energy Signal Calibration |
 |10|Present Proposals|
 
 <!-- |3|[Creating Graphs from Code; What is Malware?]({{ "/weeks/03-Android-Graphs" | absolute_url }})| -->
