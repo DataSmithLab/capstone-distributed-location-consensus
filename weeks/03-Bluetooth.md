@@ -20,10 +20,11 @@ Reading [Corona: Positioning Adjacent Device with Asymmetric Bluetooth Low Energ
 ## Reading
 
 Please read the following:
-*  [Corona: Positioning Adjacent Device with Asymmetric Bluetooth Low Energy RSSI Distributions](http://haojianj.in/resource/pdf/corona_uist_paper.pdf) [Corona Video](https://vimeo.com/149240808) [Presentation slides](http://haojianj.in/resource/pdf/corona_uist_presentation.pdf)
-*  [Tracko: Ad-hoc Mobile 3D Tracking Using Bluetooth Low Energy and Inaudible Signals for Cross-Device Interaction](https://www.christianholz.net/2015-uist15-jin_holz_hornbaek-tracko-ad-hoc_mobile_3d_tracking_using_bluetooth_low_energy_and_inaudible_signals_for_cross-device_interaction.pdf) [Tracko Video](https://www.youtube.com/watch?v=GIZtf4uGZOM) 
-  - This paper involves many low-level details. You may ignore the low-level algorithm details but focus on the big picture.
-
+* [Corona: Positioning Adjacent Device with Asymmetric Bluetooth Low Energy RSSI Distributions](http://haojianj.in/resource/pdf/corona_uist_paper.pdf) 
+* [Corona Video](https://vimeo.com/149240808) 
+* [Corona Presentation slides](http://haojianj.in/resource/pdf/corona_uist_presentation.pdf)
+* [Tracko: Ad-hoc Mobile 3D Tracking Using Bluetooth Low Energy and Inaudible Signals for Cross-Device Interaction](https://www.christianholz.net/2015-uist15-jin_holz_hornbaek-tracko-ad-hoc_mobile_3d_tracking_using_bluetooth_low_energy_and_inaudible_signals_for_cross-device_interaction.pdf) This paper involves many low-level details. You may ignore the low-level algorithm details but focus on the big picture.
+* [Tracko Video](https://www.youtube.com/watch?v=GIZtf4uGZOM) 
 * Smartphone Team: 
     ** Consider to watch [Android Development for Beginners - Full Course](https://www.youtube.com/watch?v=fis26HvvDII). This will help you gain an understanding about Android development. 
   
