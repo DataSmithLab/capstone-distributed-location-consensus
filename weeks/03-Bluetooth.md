@@ -1,7 +1,7 @@
 ---
 layout: week
 title: Week 03
-permalink: /weeks/03-Android-Graphs/
+permalink: /weeks/03-Bluetooth/
 doodle: /doodle.png
 ---
 
