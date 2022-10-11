@@ -13,7 +13,6 @@ This week's assignments will help you gain an understanding about bluetooth low 
 * What is Bluetooth low energy? What are the applications of Bluetooth Low Energy? 
 * How do developers map Bluetooth Low Energy signal strength to distances? Is this approach accurate?
 
-Reading [Corona: Positioning Adjacent Device with Asymmetric Bluetooth Low Energy RSSI Distributions](http://haojianj.in/resource/pdf/corona_uist_paper.pdf) [Video](https://vimeo.com/149240808)
 
 
 
