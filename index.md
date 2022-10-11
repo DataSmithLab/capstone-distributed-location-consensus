@@ -25,6 +25,17 @@ To approach this problem, we will initially focus on studying a secure, decentra
 
 
 
+# Hours
+
+Discussion hour:
+Monday 4-5PM, SDSC 230E
+
+Office hour:
+Thursday 4-5PM, SDSC 214E
+
+
+
+
 ## Result replication (introduction to topic)
 
 We will first setup the DP3T and study how they implement the programs:
@@ -61,7 +72,7 @@ end of the quarter.
 |--|--|
 |1|[Introduction to Decentralized Location Consensus and DP3T]({{ "weeks/01-Introduction" | absolute_url }})|
 |2|[Code: Deploy the End-to-end Demo]({{ "/weeks/02-Code" | absolute_url }})|
-|3| Bluetooth Low Energy Signal Calibration |
+|3| [Bluetooth Low Energy Signal Calibration]({{ "/weeks/03-Bluetooth" | absolute_url }}) |
 |10|Present Proposals|
 
 <!-- |3|[Creating Graphs from Code; What is Malware?]({{ "/weeks/03-Android-Graphs" | absolute_url }})| -->
@@ -73,10 +84,4 @@ end of the quarter.
 <!-- |9|[Production and Adversarial ML]({{ "/weeks/09-Adversarial-ML" | absolute_url }})| -->
 
 ---
-
-# Discussion Hours
-
-Monday 4-5PM, SDSC 
-
-
 
