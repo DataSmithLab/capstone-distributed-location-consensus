@@ -33,8 +33,7 @@ Please read the following:
 
 Now both teams should have the two repositories running. This week's programming task is to read the source code and locate the key code snippets.
 
-
-Please look for source codes that are relevant to the following questions. Each of you can work on one of the questions. 
+**Please look for source codes that are relevant to the following questions. Each of you can work on one of the questions. **
 
 
 [Calibration app](https://github.com/DP-3T/dp3t-sdk-android) 
