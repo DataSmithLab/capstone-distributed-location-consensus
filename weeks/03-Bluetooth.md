@@ -53,3 +53,8 @@ Answer the following questions on Canvas:
 * What is the difference between Bluetooth low energy and standard Bluetooth? => You will need search google to find the answer. 
 * How do developers map Bluetooth Low Energy signal strength to distances? Is this approach accurate? 
 
+
+## Notes
+
+* the "connection refused" issue tonight. 
+You can fix it by (1) installing a postgresql; (2) creating a database named "dpppt"; (3) creating a user named "dpppt" with password "dpppt". Here is an instruction about how to do it. https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e

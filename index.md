@@ -72,7 +72,8 @@ end of the quarter.
 |--|--|
 |1|[Introduction to Decentralized Location Consensus and DP3T]({{ "weeks/01-Introduction" | absolute_url }})|
 |2|[Code: Deploy the End-to-end Demo]({{ "/weeks/02-Code" | absolute_url }})|
-|3| [Bluetooth Low Energy Signal Calibration]({{ "/weeks/03-Bluetooth" | absolute_url }}) |
+|3|[Bluetooth Low Energy Signal Calibration]({{ "/weeks/03-Bluetooth" | absolute_url }}) |
+|4|[Location consensus]({{ "/weeks/04-Location" | absolute_url }}) |
 |10|Present Proposals|
 
 <!-- |3|[Creating Graphs from Code; What is Malware?]({{ "/weeks/03-Android-Graphs" | absolute_url }})| -->
