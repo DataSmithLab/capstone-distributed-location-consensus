@@ -58,3 +58,5 @@ Answer the following questions on Canvas:
 
 * the "connection refused" issue tonight. 
 You can fix it by (1) installing a postgresql; (2) creating a database named "dpppt"; (3) creating a user named "dpppt" with password "dpppt". Here is an instruction about how to do it. https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e
+
+* `java -jar -Dws.origin.country=CH  dpppt-backend-sdk-ws/target/dpppt-backend-sdk-ws.jar`
